@@ -1,4 +1,4 @@
-* Projeto Router Simples
+** Projeto Router Simples
 Este é um projeto de exemplo de um roteador JavaScript simples que permite a navegação entre páginas usando manipulação do histórico do navegador e carregamento assíncrono de conteúdo.
 
 * Funcionalidades
